@@ -1,2 +1,2 @@
- <img src="https://giphy.com/gifs/hulu-fox-family-guy-l2SpTPSxDsMJVXxi8" width='100px'> 
+ <img src="http://badblueprints.tumblr.com/post/114266084727" width='100px'> 
 <h3>Hi👋 I'm Jakhongir 😬</h3>
